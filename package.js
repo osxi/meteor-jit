@@ -2,7 +2,7 @@ Package.describe({
   name: 'osxi:jit',
   version: '2.0.1',
   summary: 'JIT (JavaScript InfoVis Toolkit) packaged for Meteor',
-  git: 'git@github.com:osxi/meteor-jit.git',
+  git: 'https://github.com/osxi/meteor-jit.git',
   documentation: 'README.md'
 });
 
